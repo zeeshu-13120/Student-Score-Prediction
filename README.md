@@ -23,7 +23,7 @@ If you want to run this project yourself, here’s how:
 
 **Step 1: Clone the Repository**
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/zeeshu-13120/Student-Score-Prediction
 cd student-score-prediction
 ```
 
